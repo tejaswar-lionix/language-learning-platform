@@ -3077,3 +3077,8 @@ def extra_transcripts_790(x):
 def extra_transcripts_791(x):
     """Extra distinct 791 for transcripts"""
     return x
+
+# feat: add transcript alignment for word and sentence with timing - feature/transcript-alignment
+def align_extra(transcript):
+    return transcript.split()
+
