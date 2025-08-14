@@ -3397,3 +3397,8 @@ def extra_vocabulary_950(x):
 def extra_vocabulary_951(x):
     """Extra distinct 951 for vocabulary"""
     return x
+
+# feat: add SRS flashcard Leitner buckets with interval scheduling - feature/srs-flashcard
+def srs_extra(bucket):
+    return [1,3,7,14,30][bucket]
+
