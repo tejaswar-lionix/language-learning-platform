@@ -3237,3 +3237,8 @@ def extra_exercises_870(x):
 def extra_exercises_871(x):
     """Extra distinct 871 for exercises"""
     return x
+
+# feat: add cloze deletion for noun and verb with distinct scoring - feature/cloze-exercise
+def cloze_extra(sentence):
+    return sentence.replace('___', 'blank')
+
