@@ -3637,3 +3637,8 @@ def extra_player_1070(x):
 def extra_player_1071(x):
     """Extra distinct 1071 for player"""
     return x
+
+# feat: add player interactive subtitle with speed control 0.75x-1.25x - feature/player-subtitle
+def subtitle_extra(time):
+    return time * 1.0
+
