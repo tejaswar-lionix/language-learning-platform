@@ -8,3 +8,5 @@
 ### feat: add community, player, dictionary, assessment - 2025-07-02T11:00:00+05:30
 
 ### fix: handle transcript alignment for empty transcript - 2025-09-02T10:00:00+05:30
+
+### chore: update README with language runbook - 2025-09-03T09:30:00+05:30
