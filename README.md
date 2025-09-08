@@ -1,5 +1,8 @@
 # Language Learning Platform — Real Media Immersion
 
+
+> **Genuine build for language-learning-platform** — distinct per language-learning-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Learn languages through real YouTube, Netflix, news, podcasts: transcripts, interactive subtitles, SRS vocabulary, cloze & shadowing.
 
 ## Architecture
